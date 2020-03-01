@@ -20,6 +20,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 3   | https://github.com/nyu-ossd-s20/sylviaji-weekly/commit/8ecffebafeda09662f69cefddb1afd47c2a6a046    | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |
