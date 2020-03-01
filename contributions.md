@@ -21,5 +21,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | https://github.com/nyu-ossd-s20/sylviaji-weekly/commit/8ecffebafeda09662f69cefddb1afd47c2a6a046    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Feb 28  |https://www.openstreetmap.org/changeset/81611980#map=19/40.72756/-74.03154  |  OpenStreetMap   | I added two locations.      |
 |     |     |     |      |
