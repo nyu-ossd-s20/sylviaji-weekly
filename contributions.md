@@ -24,3 +24,4 @@ Replace the first row with your own contribution.
 | Feb 28  |https://www.openstreetmap.org/changeset/81611980#map=19/40.72756/-74.03154  |  OpenStreetMap   | I added two locations.      |
 | Mar 1    |https://www.openstreetmap.org/changeset/81655846#map=18/40.72602/-74.03252     | OpenStreetMap    |I added a restaurant.      |
 | Mar 7 | https://www.openstreetmap.org/changeset/81909709#map=19/40.72687/-73.98753 |OpenStreetMap    |I added a restaurant.|
+| Mar 8 | https://www.openstreetmap.org/changeset/81926978 | OpenStreetMap | I added a park.|
