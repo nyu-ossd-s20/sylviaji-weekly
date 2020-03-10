@@ -26,4 +26,4 @@ Replace the first row with your own contribution.
 | Mar 7 | [link](https://www.openstreetmap.org/changeset/81909709#map=19/40.72687/-73.98753) |OpenStreetMap    |I added a restaurant.|
 | Mar 8 | [link](https://www.openstreetmap.org/changeset/81926978) | OpenStreetMap | I added a park.|
 | Mar 9 | [link](https://zh.wikipedia.org/w/index.php?title=%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%C2%B7%E6%9C%AC%C2%B7%E8%96%A9%E5%8B%92%E6%9B%BC&oldid=58542495) | Wikipedia | I fixed an error in translation.|
-|Mat 10 | [link](https://www.openstreetmap.org/changeset/82025075) | OpenStreetMap | I added a GameStop.|
+|Mar 10 | [link](https://www.openstreetmap.org/changeset/82025075) | OpenStreetMap | I added a GameStop.|
