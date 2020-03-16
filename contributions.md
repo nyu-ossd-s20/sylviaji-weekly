@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 |Mar 14 | [link](https://www.openstreetmap.org/changeset/82206718) | OpenStreetMap | I added a bubble tea place.|
 |Mar 14 | [link](https://www.openstreetmap.org/changeset/82206762) | OpenStreetMap | I added a restaurant.|
 |Mar 14 | [link](https://www.openstreetmap.org/changeset/82206783) | OpenStreetMap | I added a Chipotle.|
+|Mar 15 | [link](https://www.openstreetmap.org/changeset/82235129) | OpenStreetMap | I added a restaurant. |
