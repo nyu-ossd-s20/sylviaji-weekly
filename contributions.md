@@ -36,3 +36,4 @@ Replace the first row with your own contribution.
 |Mar 21 | [link](https://www.openstreetmap.org/changeset/82474244) | OpenStreetMap | I added a restaurant.|
 |Mar 23 | [link](https://www.openstreetmap.org/changeset/82544574) | OpenStreetMap | I added a deli.|
 |Mar 23 | [link](https://www.openstreetmap.org/changeset/82544620) | OpenStreetMap | I added a noodle bar.|
+|Mar 23 | [link](https://www.openstreetmap.org/changeset/82544688) | OpenStreetMap | I updated the address of a Dunkin'. |
