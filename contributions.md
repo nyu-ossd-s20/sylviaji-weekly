@@ -34,6 +34,5 @@ Replace the first row with your own contribution.
 |Mar 15 | [link](https://www.openstreetmap.org/changeset/82235278) | OpenStreetMap | I added a juice bar & deli. |
 |Mar 16 | [link](https://www.openstreetmap.org/changeset/82279896) | OpenStreetMap | I added a newsstand. |
 |Mar 21 | [link](https://www.openstreetmap.org/changeset/82474244) | OpenStreetMap | I added a restaurant.|
-
-
+|Mar 23 | [link](https://www.openstreetmap.org/changeset/82544574) | OpenStreetMap | I added a deli.|
 
