@@ -15,9 +15,6 @@ Replace the first row with your own contribution.
 -->
 
 
-
-
-
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 3   | [link](https://github.com/nyu-ossd-s20/sylviaji-weekly/commit/8ecffebafeda09662f69cefddb1afd47c2a6a046)  | course website    |   I fixed a broken link.    |
@@ -42,3 +39,4 @@ Replace the first row with your own contribution.
 |Mar 25 | [link](https://www.openstreetmap.org/changeset/82637550) | OpenStreetMap | I added a pizza place. |
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684796) | OpenStreetMap | I added a GameStop. |
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684853) | OpenStreetMap | I added a coffee shop. |
+|Mar 26 | [link](https://www.openstreetmap.org/changeset/82684907) | OpenStreetMap | I added a Popeyes. |
