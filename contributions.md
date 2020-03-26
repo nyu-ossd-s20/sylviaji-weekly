@@ -41,3 +41,4 @@ Replace the first row with your own contribution.
 |Mar 23 | [link](https://www.openstreetmap.org/changeset/82544771) | OpenStreetMap | I deleted a closed bubble tea place. |
 |Mar 25 | [link](https://www.openstreetmap.org/changeset/82637550) | OpenStreetMap | I added a pizza place. |
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684796) | OpenStreetMap | I added a GameStop. |
+|Mar 26 | [link](https://www.openstreetmap.org/changeset/82684853) | OpenStreetMap | I added a coffee shop. |
