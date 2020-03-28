@@ -40,3 +40,4 @@ Replace the first row with your own contribution.
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684796) | OpenStreetMap | I added a GameStop. |
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684853) | OpenStreetMap | I added a coffee shop. |
 |Mar 26 | [link](https://www.openstreetmap.org/changeset/82684907) | OpenStreetMap | I added a Popeyes. |
+|Mar 27 | [link](https://www.openstreetmap.org/changeset/82737231) | OpenStreetMap | I added a Wells Fargo. |
