@@ -42,3 +42,4 @@ Replace the first row with your own contribution.
 |Mar 26 | [Changeset Link](https://www.openstreetmap.org/changeset/82684907) | OpenStreetMap | I added a Popeyes. |
 |Mar 27 | [Changeset Link](https://www.openstreetmap.org/changeset/82737231) | OpenStreetMap | I added a Wells Fargo. |
 |Mar 29 | [Changeset Link](https://www.openstreetmap.org/changeset/82796748) | OpenStreetMap | I added a fitness center. |
+|Mar 31 | [Changeset Link](https://www.openstreetmap.org/changeset/82876991) | OpenStreetMap | I added a Just Salad.|
