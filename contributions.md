@@ -44,4 +44,3 @@ Replace the first row with your own contribution.
 |Mar 29 | [Changeset Link](https://www.openstreetmap.org/changeset/82796748) | OpenStreetMap | I added a fitness center. |
 |Mar 31 | [Changeset Link](https://www.openstreetmap.org/changeset/82876991) | OpenStreetMap | I added a Just Salad.|
 |April 9 | [Pull Request Link](https://github.com/elxris/Turnip-Calculator/pull/50) |[ACNH Turnip Calculator](https://github.com/elxris/Turnip-Calculator)| I added Japanese translation. |
-|April 11 | [Weblate Link](https://weblate.yerbamate.dev/changes/?user=yzkzm) | Lemmy | I added Chinese translations. |
