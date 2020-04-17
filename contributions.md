@@ -45,3 +45,6 @@ Replace the first row with your own contribution.
 |Mar 31 | [Changeset Link](https://www.openstreetmap.org/changeset/82876991) | OpenStreetMap | I added a Just Salad.|
 |April 9 | [Pull Request Link](https://github.com/elxris/Turnip-Calculator/pull/50) |[ACNH Turnip Calculator](https://github.com/elxris/Turnip-Calculator)| I added Japanese translation. |
 |April 14 | [Changeset Link](https://www.openstreetmap.org/changeset/83536481) | OpenStreetMap | I added a Taiwanese restaurant. |
+|April 16 | [Wikipedia Link](https://zh.wikipedia.org/w/index.php?title=%E5%A0%BA%E9%9B%85%E4%BA%BA&oldid=59203239) | Wikipedia | I edited the filmography section. |
+
+
