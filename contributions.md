@@ -48,4 +48,4 @@ Replace the first row with your own contribution.
 |April 16 | [Wikipedia Link](https://zh.wikipedia.org/w/index.php?title=%E5%A0%BA%E9%9B%85%E4%BA%BA&oldid=59203239) | Wikipedia | I edited the filmography section. |
 |April 16 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=J%C5%ABhan_Shuttai!&oldid=951424660) | Wikipedia | I updated the description and the volumes section. |
 |April 17 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=%3DLOVE&oldid=951615443) | Wikipedia | I updated the members and discography sections. |
-
+|April 18 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#en/assets-locales-ja-json--development/283235113?q=reviewed%3Ano+translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 100+ strings from Japanese to English. |
