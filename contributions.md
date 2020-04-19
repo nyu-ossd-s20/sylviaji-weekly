@@ -51,3 +51,4 @@ Replace the first row with your own contribution.
 |April 18 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#en/assets-locales-ja-json--development/283235113?q=translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 100+ strings from Japanese to English. |
 |April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83760294) | OpenStreetMap | I added a seafood restaurant. |
 |April 19 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#zh_CN/assets-locales-ja-json--development/288107157?q=translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 140+ strings from Japanese to simplified Chinese. |
+|April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83787272) | OpenStreetMap | I added a bubble tea place. |
