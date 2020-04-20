@@ -45,11 +45,11 @@ Replace the first row with your own contribution.
 |Mar 31 | [Changeset Link](https://www.openstreetmap.org/changeset/82876991) | OpenStreetMap | I added a Just Salad.|
 |April 9 | [Pull Request Link](https://github.com/elxris/Turnip-Calculator/pull/50) |[ACNH Turnip Calculator](https://github.com/elxris/Turnip-Calculator)| I added Japanese translation. |
 |April 14 | [Changeset Link](https://www.openstreetmap.org/changeset/83536481) | OpenStreetMap | I added a Taiwanese restaurant. |
-|April 16 | [Wikipedia Link](https://zh.wikipedia.org/w/index.php?title=%E5%A0%BA%E9%9B%85%E4%BA%BA&oldid=59203239) | Wikipedia | I edited the filmography section. |
-|April 16 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=J%C5%ABhan_Shuttai!&oldid=951424660) | Wikipedia | I updated the description and the volumes section. |
-|April 17 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=%3DLOVE&oldid=951615443) | Wikipedia | I updated the members and discography sections. |
+|April 16 | [Wikipedia Link](https://zh.wikipedia.org/w/index.php?title=%E5%A0%BA%E9%9B%85%E4%BA%BA&oldid=59203239) | Wikipedia | I updated the Filmography section. |
+|April 16 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=J%C5%ABhan_Shuttai!&oldid=951424660) | Wikipedia | I updated the lead section and the Volumes section. |
+|April 17 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=%3DLOVE&oldid=951615443) | Wikipedia | I updated the Members and Discography sections. |
 |April 18 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#en/assets-locales-ja-json--development/283235113?q=translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 100+ strings from Japanese to English. |
 |April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83760294) | OpenStreetMap | I added a seafood restaurant. |
 |April 19 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#zh_CN/assets-locales-ja-json--development/288107157?q=translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 140+ strings from Japanese to simplified Chinese. |
 |April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83787272) | OpenStreetMap | I added a bubble tea place. |
-|April 20 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=AKB48&oldid=952100701) | Wikipedia | I updated the awards and honors section. |
+|April 20 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=AKB48&oldid=952100701) | Wikipedia | I updated the Awards and honors section. |
