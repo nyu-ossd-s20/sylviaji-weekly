@@ -53,3 +53,4 @@ Replace the first row with your own contribution.
 |April 19 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#zh_CN/assets-locales-ja-json--development/288107157?q=translator%3Ayzkzm) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 140+ strings from Japanese to simplified Chinese. |
 |April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83787272) | OpenStreetMap | I added a bubble tea place. |
 |April 20 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=AKB48&oldid=952100701) | Wikipedia | I updated the Awards and honors section. |
+|April 21 | [Changeset Link](https://www.openstreetmap.org/changeset/83908282) | OpenStreetMap | I added a pizzeria. |
