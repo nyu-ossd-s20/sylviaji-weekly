@@ -54,3 +54,4 @@ Replace the first row with your own contribution.
 |April 19 | [Changeset Link](https://www.openstreetmap.org/changeset/83787272) | OpenStreetMap | I added a bubble tea place. |
 |April 20 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=AKB48&oldid=952100701) | Wikipedia | I updated the Awards and honors section. |
 |April 21 | [Changeset Link](https://www.openstreetmap.org/changeset/83908282) | OpenStreetMap | I added a pizzeria. |
+|April 24 | [Changeset Link](https://www.openstreetmap.org/changeset/84084233) | OpenStreetMap | I added a Frutta Bowls. |
