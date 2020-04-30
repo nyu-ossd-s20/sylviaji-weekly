@@ -58,3 +58,4 @@ Replace the first row with your own contribution.
 |April 26 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Eurogamer&oldid=953363891) | Wikipedia | I updated the Alexa rank of Eurogamer. |
 |April 29 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=IGN&oldid=953987963) |Wikipedia | I updated the Alexa rank of IGN.|
 |April 29 | [Changeset Link](https://www.openstreetmap.org/changeset/84373134#map=19/40.72836/-74.03424) | OpenStreetMap | I added a Chinese restaurant. |
+|April 30 | [Changeset Link](https://www.openstreetmap.org/changeset/84442081) | OpenStreetMap | I added a steak house. |
