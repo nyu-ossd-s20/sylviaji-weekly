@@ -56,3 +56,4 @@ Replace the first row with your own contribution.
 |April 21 | [Changeset Link](https://www.openstreetmap.org/changeset/83908282) | OpenStreetMap | I added a pizzeria. |
 |April 24 | [Changeset Link](https://www.openstreetmap.org/changeset/84084233) | OpenStreetMap | I added a Frutta Bowls. |
 |April 26 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Eurogamer&oldid=953363891) | Wikipedia | I updated the Alexa rank of Eurogamer. |
+|April 29 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=IGN&oldid=953987963) }Wikipedia | I updated the Alexa rank of IGN.|
