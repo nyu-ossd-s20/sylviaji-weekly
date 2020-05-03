@@ -61,3 +61,4 @@ Replace the first row with your own contribution.
 |April 30 | [Changeset Link](https://www.openstreetmap.org/changeset/84442081) | OpenStreetMap | I added a steak house. |
 |May 2 | [Changeset Link](https://www.openstreetmap.org/changeset/84545106) | OpenStreetMap | I added an American restaurant.|
 |May 3 | [Changeset Link](https://www.openstreetmap.org/changeset/84584205) | OpenStreetMap | I marked a restaurant as closed. |
+|May 3 | [Changeset Link](https://www.openstreetmap.org/changeset/84584298) | OpenStreetMap | I added a Cajun restaurant. |
