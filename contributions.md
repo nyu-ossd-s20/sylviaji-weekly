@@ -63,3 +63,4 @@ Replace the first row with your own contribution.
 |May 3 | [Changeset Link](https://www.openstreetmap.org/changeset/84584205) | OpenStreetMap | I marked a restaurant as closed. |
 |May 3 | [Changeset Link](https://www.openstreetmap.org/changeset/84584298) | OpenStreetMap | I added a Cajun restaurant. |
 |May 3 | [Wikipedia Link](https://en.wikipedia.org/wiki/Metacritic) | Wikipedia | I updated the Alexa rank of Metacritic. |
+|May 5 | [Changeset Link](https://www.openstreetmap.org/changeset/84727574) | OpenStreetMap | I added a Chick-fil-A. |
