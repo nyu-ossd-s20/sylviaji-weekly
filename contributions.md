@@ -64,3 +64,4 @@ Replace the first row with your own contribution.
 |May 3 | [Changeset Link](https://www.openstreetmap.org/changeset/84584298) | OpenStreetMap | I added a Cajun restaurant. |
 |May 3 | [Wikipedia Link](https://en.wikipedia.org/wiki/Metacritic) | Wikipedia | I updated the Alexa rank of Metacritic. |
 |May 5 | [Changeset Link](https://www.openstreetmap.org/changeset/84727574) | OpenStreetMap | I added a Chick-fil-A. |
+|May 5 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=IMDb&oldid=955135939) | Wikipedia | I updated the Alexa rank of IMDb. |
