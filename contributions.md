@@ -66,3 +66,4 @@ Replace the first row with your own contribution.
 |May 5 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=IMDb&oldid=955135939) | Wikipedia | I updated the Alexa rank of IMDb. |
 |May 6 | [Wikipedia Link](https://zh.wikipedia.org/w/index.php?title=Fami%E9%80%9A&oldid=59525448) | Wikipedia | I added a new game that received a Famitsu score of 39. |
 |May 6 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Famitsu_scores&oldid=955142281) | Wikipedia | I added the 2019 Famitsu Game of the Year winner. |
+|May 6 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Studio_Trigger&oldid=955145941) | Wikipedia | I updated the TV series section of Studio Trigger. |
