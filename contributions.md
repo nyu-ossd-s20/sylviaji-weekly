@@ -68,3 +68,4 @@ Replace the first row with your own contribution.
 |May 6 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Famitsu_scores&oldid=955142281) | Wikipedia | I added the 2019 Famitsu Game of the Year winner. |
 |May 6 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Studio_Trigger&oldid=955145941) | Wikipedia | I updated the TV series section of Studio Trigger. |
 |May 7 | [Changeset Link](https://www.openstreetmap.org/changeset/84855684) | OpenStreetMap | I added a chocolate store. |
+|May 7 | [Wikipedia Link](https://ja.wikipedia.org/w/index.php?title=%E3%83%9C%E3%83%B3%E3%82%BA_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE)&oldid=77433904) | Wikipedia | I updated the Movies section. |
