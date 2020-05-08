@@ -71,3 +71,4 @@ Replace the first row with your own contribution.
 |May 7 | [Wikipedia Link](https://ja.wikipedia.org/w/index.php?title=%E3%83%9C%E3%83%B3%E3%82%BA_(%E3%82%A2%E3%83%8B%E3%83%A1%E5%88%B6%E4%BD%9C%E4%BC%9A%E7%A4%BE)&oldid=77433904) | Wikipedia | I updated the Movies section. |
 |May 8 | [Wikipedia Link](https://ja.wikipedia.org/w/index.php?title=%E3%83%9E%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%82%B9&oldid=77434006) | Wikipedia | I updated the Works section. |
 |May 8 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Production_I.G&oldid=955499373) | Wikipedia | I updated the Television series section. |
+|May 8 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Quora&oldid=955499895) | Wikipedia | I updated the Alexa rank of Quora. |
