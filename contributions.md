@@ -72,3 +72,4 @@ Replace the first row with your own contribution.
 |May 8 | [Wikipedia Link](https://ja.wikipedia.org/w/index.php?title=%E3%83%9E%E3%83%83%E3%83%89%E3%83%8F%E3%82%A6%E3%82%B9&oldid=77434006) | Wikipedia | I updated the Works section. |
 |May 8 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Production_I.G&oldid=955499373) | Wikipedia | I updated the Television series section. |
 |May 8 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Quora&oldid=955499895) | Wikipedia | I updated the Alexa rank of Quora. |
+|May 9 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#zh_CN/assets-locales-ja-json--development/290222808?q=translator%3Ayzkzm+translated_after%3A2020-05-09+translated_before%3A2020-05-10) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 14 paragraphs/phrases from Japanese to Chinese. |
