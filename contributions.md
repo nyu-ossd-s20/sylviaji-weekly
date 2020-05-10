@@ -74,3 +74,4 @@ Replace the first row with your own contribution.
 |May 8 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Quora&oldid=955499895) | Wikipedia | I updated the Alexa rank of Quora. |
 |May 9 | [Transifex Link](https://www.transifex.com/stopcovid19-tokyo/stopcovid19tokyo/translate/#zh_CN/assets-locales-ja-json--development/290222808?q=translator%3Ayzkzm+translated_after%3A2020-05-09+translated_before%3A2020-05-10) | [Tokyo COVID-19 Task Force website](https://github.com/tokyo-metropolitan-gov/covid19) | I translated 14 sentences/phrases from Japanese to Chinese. |
 |May 9 | [Changeset Link](https://www.openstreetmap.org/changeset/84955837#map=19/40.74294/-73.97992) | OpenStreetMap | I added a grocery store. |
+|May 10 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Aniplex&oldid=955931175) | Wikipedia | I updated the productions section. |
