@@ -78,3 +78,4 @@ Replace the first row with your own contribution.
 |May 10 | [Changeset Link](https://www.openstreetmap.org/changeset/84978433) | OpenStreetMap | I added a Chinese noodle restaurant. |
 |May 10 | [Changeset Link](https://www.openstreetmap.org/changeset/84978576) | OpenStreetMap | I added a health food restaurant. |
 |May 11 | [Changeset Link](https://www.openstreetmap.org/changeset/85052741) | OpenStreetMap | I added a Chinese noodle restaurant. |
+|May 11 | [Changeset Link](https://www.openstreetmap.org/changeset/85052793) | OpenStreetMap | I added a CVS. |
