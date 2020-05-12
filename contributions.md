@@ -82,3 +82,4 @@ Replace the first row with your own contribution.
 |May 12 | [Changeset Link](https://www.openstreetmap.org/changeset/85104513) | OpenStreetMap | I added a tea house/bakery. |
 |May 12 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Keigo_Higashino&oldid=956341060) | Wikipedia | I updated the Other novels section. |
 |May 12 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Tanizaki_Prize&oldid=956343409) | Wikipedia | I updated the Winners section. |
+|May 12 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Kiyoko_Murata&oldid=956343963) | Wikipedia | I updated the Recognition section. |
