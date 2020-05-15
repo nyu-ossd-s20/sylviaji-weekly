@@ -84,3 +84,4 @@ Replace the first row with your own contribution.
 |May 12 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Tanizaki_Prize&oldid=956343409) | Wikipedia | I updated the Winners section. |
 |May 12 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Kiyoko_Murata&oldid=956343963) | Wikipedia | I updated the Recognition section. |
 |May 13 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Mystery_Writers_of_Japan_Award&oldid=956570925) | Wikipedia | I updated the 2018/2019 Best Novel winners. |
+|May 14 | [Changeset Link](https://www.openstreetmap.org/changeset/85230955) | OpenStreetMap | I added a cafe. |
