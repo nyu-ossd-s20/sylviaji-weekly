@@ -86,3 +86,4 @@ Replace the first row with your own contribution.
 |May 12 | [Pull Request](https://github.com/joannakl/ossd_s20/pull/31) | [ossd_20](https://github.com/joannakl/ossd_s20) | I added a missing link on the course website. |
 |May 13 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Mystery_Writers_of_Japan_Award&oldid=956570925) | Wikipedia | I updated the 2018/2019 Best Novel winners. |
 |May 14 | [Changeset Link](https://www.openstreetmap.org/changeset/85230955) | OpenStreetMap | I added a cafe. |
+|May 14 | [Wikipedia Link](https://en.wikipedia.org/w/index.php?title=Honkaku_Mystery_Award&oldid=956871324) | Wikipedia | I added the 2019 winners of best fiction & best critical work. |
